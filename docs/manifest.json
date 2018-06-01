@@ -1,1 +1,213 @@
-{"homepages":[],"source_base_path":"C:/Projects/GitHub/Cloudikka/polyline-algorithm-csharp/src/Cloudikka.PolylineAlgorithm","xrefmap":"xrefmap.yml","files":[{"type":"ManagedReference","source_relative_path":"../../docs/source/api/Cloudikka.PolylineAlgorithm.PolylineAlgorithm.yml","output":{".html":{"relative_path":"api/Cloudikka.PolylineAlgorithm.PolylineAlgorithm.html","hash":"DuxXQJFG0JnJK4XZfGoqSw=="}},"is_incremental":false},{"type":"ManagedReference","source_relative_path":"../../docs/source/api/Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.yml","output":{".html":{"relative_path":"api/Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.html","hash":"bHKr12B+LaPPoDIiM/GdEw=="}},"is_incremental":false},{"type":"ManagedReference","source_relative_path":"../../docs/source/api/Cloudikka.PolylineAlgorithm.Validation.yml","output":{".html":{"relative_path":"api/Cloudikka.PolylineAlgorithm.Validation.html","hash":"JRNjS8Iv+pO6MsunBCDXvA=="}},"is_incremental":false},{"type":"ManagedReference","source_relative_path":"../../docs/source/api/Cloudikka.PolylineAlgorithm.yml","output":{".html":{"relative_path":"api/Cloudikka.PolylineAlgorithm.html","hash":"m5VwU6ucCYySNK9o1V+ObQ=="}},"is_incremental":false},{"type":"Toc","source_relative_path":"../../docs/source/api/toc.yml","output":{".html":{"relative_path":"api/toc.html","hash":"MJBrHUiuNZAV/fYefVG24A=="}},"is_incremental":false},{"type":"Toc","source_relative_path":"../../docs/source/toc.yml","output":{".html":{"relative_path":"toc.html","hash":"ErjYhgldNN21zQh8L4Olrg=="}},"is_incremental":false},{"type":"Toc","source_relative_path":"../../docs/source/articles/toc.yml","output":{".html":{"relative_path":"articles/toc.html","hash":"dsfYf/xjrWq6mnqKHgnW9g=="}},"is_incremental":false},{"type":"Conceptual","source_relative_path":"../../docs/source/api/index.md","output":{".html":{"relative_path":"api/index.html","hash":"dPgHIsVe2ZXJr7/R6lmg7Q=="}},"is_incremental":false},{"type":"Conceptual","source_relative_path":"../../docs/source/index.md","output":{".html":{"relative_path":"index.html","hash":"OqddFoprNY6Yz18TAcxrrA=="}},"is_incremental":false},{"type":"Conceptual","source_relative_path":"../../docs/source/articles/intro.md","output":{".html":{"relative_path":"articles/intro.html","hash":"bhq6zzP77tZUevOHXJu4fw=="}},"is_incremental":false},{"type":"ManagedReference","source_relative_path":"../../docs/source/api/Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding-1.yml","output":{".html":{"relative_path":"api/Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding-1.html","hash":"TcaAT5pBvPQKZDEXksnw6w=="}},"is_incremental":false},{"type":"ManagedReference","source_relative_path":"../../docs/source/api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncoding.yml","output":{".html":{"relative_path":"api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncoding.html","hash":"AkMKRIs+xaAFilAKiDfIRA=="}},"is_incremental":false},{"type":"ManagedReference","source_relative_path":"../../docs/source/api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase-1.yml","output":{".html":{"relative_path":"api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase-1.html","hash":"xGg93o6lzLNcZTa046c4cQ=="}},"is_incremental":false},{"type":"ManagedReference","source_relative_path":"../../docs/source/api/Cloudikka.PolylineAlgorithm.Encoding.yml","output":{".html":{"relative_path":"api/Cloudikka.PolylineAlgorithm.Encoding.html","hash":"q9cIXLi1Eu31lwAwDxYBmA=="}},"is_incremental":false}]}
+{
+  "homepages": [],
+  "source_base_path": "C:/Projects/GitHub/Cloudikka/polyline-algorithm-csharp/src/Cloudikka.PolylineAlgorithm",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../../docs/source/api/Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding-1.html",
+          "hash": "R3v1CbuZKhN5xuUkfhvvFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../../docs/source/api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncoding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncoding.html",
+          "hash": "1CUBIXr8SKLkrpnMehaUFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../../docs/source/api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase-1.html",
+          "hash": "OFd7QXaYU3DOFH4bRcuRYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../../docs/source/api/Cloudikka.PolylineAlgorithm.Encoding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cloudikka.PolylineAlgorithm.Encoding.html",
+          "hash": "nOfpgYK++bX8zq2ZaV7LEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../../docs/source/api/Cloudikka.PolylineAlgorithm.PolylineAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cloudikka.PolylineAlgorithm.PolylineAlgorithm.html",
+          "hash": "i2QFIhKZRzvZOK8YlUC81w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../../docs/source/api/Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.html",
+          "hash": "PntL5ovMX/BQlPK1iJHLtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../../docs/source/api/Cloudikka.PolylineAlgorithm.Validation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cloudikka.PolylineAlgorithm.Validation.html",
+          "hash": "Fi9s6OOZ6Cq1igS0jk5BkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "../../docs/source/api/Cloudikka.PolylineAlgorithm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cloudikka.PolylineAlgorithm.html",
+          "hash": "glGsVWxBxFzGLJiP3AZhNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../../docs/source/api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "2zpYgTu33H9buiSgcmKuRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "../../docs/source/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "WG0amM8awH9miGIwVg5A9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../../docs/source/articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "7tciNPCbA5II7q2OtwwwaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "../../docs/source/articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "xVlQaX7Tk85omoiWv3O+Ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../../docs/source/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "aM6zq0z68ZMShHStFol6MA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "../../docs/source/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "ob7LqWp4kTNLz+9W4omdTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Disable incremental build by force rebuild option.",
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: it's disabled.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

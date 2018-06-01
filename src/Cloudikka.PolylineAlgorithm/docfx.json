@@ -6,11 +6,14 @@
           "files": [
             "**.csproj"
           ],
-          "src": "C:\\Projects\\GitHub\\Cloudikka\\polyline-algorithm-csharp\\src\\Cloudikka.PolylineAlgorithm"
+          "src": "."
         }
       ],
-      "dest": "api",
-      "disableGitFeatures": false
+      "dest": "..\\..\\docs\\source\\api",
+      "disableGitFeatures": false,
+      "properties": {
+        "TargetFramework": "netstandard2.0"
+      }
     }
   ],
   "build": {
@@ -19,7 +22,8 @@
         "files": [
           "api/**.yml",
           "api/index.md"
-        ]
+        ],
+        "src": "..\\..\\docs\\source\\"
       },
       {
         "files": [
@@ -27,14 +31,16 @@
           "articles/**/toc.yml",
           "toc.yml",
           "*.md"
-        ]
+        ],
+        "src": "..\\..\\docs\\source\\"
       }
     ],
     "resource": [
       {
         "files": [
           "images/**"
-        ]
+        ],
+        "src": "..\\..\\docs\\source\\"
       }
     ],
     "overwrite": [
@@ -42,13 +48,14 @@
         "files": [
           "apidoc/**.md"
         ],
+        "src": "..\\..\\docs\\source\\",
         "exclude": [
           "obj/**",
           "_site/**"
         ]
       }
     ],
-    "dest": "_site",
+    "dest": "..\\..\\docs",
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [

@@ -29,27 +29,32 @@ references:
   fullName: Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding<T>.Decode(System.String)
   fullName.vb: Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding(Of T).Decode(System.String)
   nameWithType: IPolylineEncoding<T>.Decode(String)
+  nameWithType.vb: IPolylineEncoding(Of T).Decode(String)
 - uid: Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding`1.Decode*
   name: Decode
   href: api/Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding-1.html#Cloudikka_PolylineAlgorithm_Encoding_IPolylineEncoding_1_Decode_
   commentId: Overload:Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding`1.Decode
+  isSpec: "True"
   fullName: Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding<T>.Decode
+  fullName.vb: Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding(Of T).Decode
   nameWithType: IPolylineEncoding<T>.Decode
   nameWithType.vb: IPolylineEncoding(Of T).Decode
-- uid: Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding`1.Encode(System.Collections.Generic.IEnumerable{`0})
+- uid: Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding`1.Encode(IEnumerable{`0})
   name: Encode(IEnumerable<T>)
-  href: api/Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding-1.html#Cloudikka_PolylineAlgorithm_Encoding_IPolylineEncoding_1_Encode_System_Collections_Generic_IEnumerable__0__
-  commentId: M:Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding`1.Encode(System.Collections.Generic.IEnumerable{`0})
+  href: api/Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding-1.html#Cloudikka_PolylineAlgorithm_Encoding_IPolylineEncoding_1_Encode_IEnumerable__0__
+  commentId: M:Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding`1.Encode(IEnumerable{`0})
   name.vb: Encode(IEnumerable(Of T))
-  fullName: Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding<T>.Encode(System.Collections.Generic.IEnumerable<T>)
-  fullName.vb: Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding(Of T).Encode(System.Collections.Generic.IEnumerable(Of T))
+  fullName: Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding<T>.Encode(IEnumerable<T>)
+  fullName.vb: Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding(Of T).Encode(IEnumerable(Of T))
   nameWithType: IPolylineEncoding<T>.Encode(IEnumerable<T>)
-  nameWithType.vb: Encode(IEnumerable(Of T))
+  nameWithType.vb: IPolylineEncoding(Of T).Encode(IEnumerable(Of T))
 - uid: Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding`1.Encode*
   name: Encode
   href: api/Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding-1.html#Cloudikka_PolylineAlgorithm_Encoding_IPolylineEncoding_1_Encode_
   commentId: Overload:Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding`1.Encode
+  isSpec: "True"
   fullName: Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding<T>.Encode
+  fullName.vb: Cloudikka.PolylineAlgorithm.Encoding.IPolylineEncoding(Of T).Encode
   nameWithType: IPolylineEncoding<T>.Encode
   nameWithType.vb: IPolylineEncoding(Of T).Encode
 - uid: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncoding
@@ -68,6 +73,7 @@ references:
   name: CreateResult
   href: api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncoding.html#Cloudikka_PolylineAlgorithm_Encoding_PolylineEncoding_CreateResult_
   commentId: Overload:Cloudikka.PolylineAlgorithm.Encoding.PolylineEncoding.CreateResult
+  isSpec: "True"
   fullName: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncoding.CreateResult
   nameWithType: PolylineEncoding.CreateResult
 - uid: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncoding.GetCoordinate(System.ValueTuple{System.Double,System.Double})
@@ -80,6 +86,7 @@ references:
   name: GetCoordinate
   href: api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncoding.html#Cloudikka_PolylineAlgorithm_Encoding_PolylineEncoding_GetCoordinate_
   commentId: Overload:Cloudikka.PolylineAlgorithm.Encoding.PolylineEncoding.GetCoordinate
+  isSpec: "True"
   fullName: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncoding.GetCoordinate
   nameWithType: PolylineEncoding.GetCoordinate
 - uid: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1
@@ -98,11 +105,14 @@ references:
   fullName: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase<T>.CreateResult(System.Double, System.Double)
   fullName.vb: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase(Of T).CreateResult(System.Double, System.Double)
   nameWithType: PolylineEncodingBase<T>.CreateResult(Double, Double)
+  nameWithType.vb: PolylineEncodingBase(Of T).CreateResult(Double, Double)
 - uid: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1.CreateResult*
   name: CreateResult
   href: api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase-1.html#Cloudikka_PolylineAlgorithm_Encoding_PolylineEncodingBase_1_CreateResult_
   commentId: Overload:Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1.CreateResult
+  isSpec: "True"
   fullName: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase<T>.CreateResult
+  fullName.vb: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase(Of T).CreateResult
   nameWithType: PolylineEncodingBase<T>.CreateResult
   nameWithType.vb: PolylineEncodingBase(Of T).CreateResult
 - uid: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1.Decode(System.String)
@@ -112,27 +122,32 @@ references:
   fullName: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase<T>.Decode(System.String)
   fullName.vb: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase(Of T).Decode(System.String)
   nameWithType: PolylineEncodingBase<T>.Decode(String)
+  nameWithType.vb: PolylineEncodingBase(Of T).Decode(String)
 - uid: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1.Decode*
   name: Decode
   href: api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase-1.html#Cloudikka_PolylineAlgorithm_Encoding_PolylineEncodingBase_1_Decode_
   commentId: Overload:Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1.Decode
+  isSpec: "True"
   fullName: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase<T>.Decode
+  fullName.vb: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase(Of T).Decode
   nameWithType: PolylineEncodingBase<T>.Decode
   nameWithType.vb: PolylineEncodingBase(Of T).Decode
-- uid: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1.Encode(System.Collections.Generic.IEnumerable{`0})
+- uid: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1.Encode(IEnumerable{`0})
   name: Encode(IEnumerable<T>)
-  href: api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase-1.html#Cloudikka_PolylineAlgorithm_Encoding_PolylineEncodingBase_1_Encode_System_Collections_Generic_IEnumerable__0__
-  commentId: M:Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1.Encode(System.Collections.Generic.IEnumerable{`0})
+  href: api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase-1.html#Cloudikka_PolylineAlgorithm_Encoding_PolylineEncodingBase_1_Encode_IEnumerable__0__
+  commentId: M:Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1.Encode(IEnumerable{`0})
   name.vb: Encode(IEnumerable(Of T))
-  fullName: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase<T>.Encode(System.Collections.Generic.IEnumerable<T>)
-  fullName.vb: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase(Of T).Encode(System.Collections.Generic.IEnumerable(Of T))
+  fullName: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase<T>.Encode(IEnumerable<T>)
+  fullName.vb: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase(Of T).Encode(IEnumerable(Of T))
   nameWithType: PolylineEncodingBase<T>.Encode(IEnumerable<T>)
-  nameWithType.vb: Encode(IEnumerable(Of T))
+  nameWithType.vb: PolylineEncodingBase(Of T).Encode(IEnumerable(Of T))
 - uid: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1.Encode*
   name: Encode
   href: api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase-1.html#Cloudikka_PolylineAlgorithm_Encoding_PolylineEncodingBase_1_Encode_
   commentId: Overload:Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1.Encode
+  isSpec: "True"
   fullName: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase<T>.Encode
+  fullName.vb: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase(Of T).Encode
   nameWithType: PolylineEncodingBase<T>.Encode
   nameWithType.vb: PolylineEncodingBase(Of T).Encode
 - uid: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1.GetCoordinate(`0)
@@ -142,11 +157,14 @@ references:
   fullName: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase<T>.GetCoordinate(T)
   fullName.vb: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase(Of T).GetCoordinate(T)
   nameWithType: PolylineEncodingBase<T>.GetCoordinate(T)
+  nameWithType.vb: PolylineEncodingBase(Of T).GetCoordinate(T)
 - uid: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1.GetCoordinate*
   name: GetCoordinate
   href: api/Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase-1.html#Cloudikka_PolylineAlgorithm_Encoding_PolylineEncodingBase_1_GetCoordinate_
   commentId: Overload:Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase`1.GetCoordinate
+  isSpec: "True"
   fullName: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase<T>.GetCoordinate
+  fullName.vb: Cloudikka.PolylineAlgorithm.Encoding.PolylineEncodingBase(Of T).GetCoordinate
   nameWithType: PolylineEncodingBase<T>.GetCoordinate
   nameWithType.vb: PolylineEncodingBase(Of T).GetCoordinate
 - uid: Cloudikka.PolylineAlgorithm.PolylineAlgorithm
@@ -163,26 +181,28 @@ references:
   fullName: Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Decode(System.Char[])
   fullName.vb: Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Decode(System.Char())
   nameWithType: PolylineAlgorithm.Decode(Char[])
-  nameWithType.vb: Decode(Char())
+  nameWithType.vb: PolylineAlgorithm.Decode(Char())
 - uid: Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Decode*
   name: Decode
   href: api/Cloudikka.PolylineAlgorithm.PolylineAlgorithm.html#Cloudikka_PolylineAlgorithm_PolylineAlgorithm_Decode_
   commentId: Overload:Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Decode
+  isSpec: "True"
   fullName: Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Decode
   nameWithType: PolylineAlgorithm.Decode
-- uid: Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Encode(System.Collections.Generic.IEnumerable{System.ValueTuple{System.Double,System.Double}})
+- uid: Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Encode(IEnumerable{System.ValueTuple{System.Double,System.Double}})
   name: Encode(IEnumerable<>)
-  href: api/Cloudikka.PolylineAlgorithm.PolylineAlgorithm.html#Cloudikka_PolylineAlgorithm_PolylineAlgorithm_Encode_System_Collections_Generic_IEnumerable_System_ValueTuple_System_Double_System_Double___
-  commentId: M:Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Encode(System.Collections.Generic.IEnumerable{System.ValueTuple{System.Double,System.Double}})
+  href: api/Cloudikka.PolylineAlgorithm.PolylineAlgorithm.html#Cloudikka_PolylineAlgorithm_PolylineAlgorithm_Encode_IEnumerable_System_ValueTuple_System_Double_System_Double___
+  commentId: M:Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Encode(IEnumerable{System.ValueTuple{System.Double,System.Double}})
   name.vb: Encode(IEnumerable(Of ))
-  fullName: Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Encode(System.Collections.Generic.IEnumerable<System.>)
-  fullName.vb: Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Encode(System.Collections.Generic.IEnumerable(Of System.))
+  fullName: Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Encode(IEnumerable<System.>)
+  fullName.vb: Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Encode(IEnumerable(Of System.))
   nameWithType: PolylineAlgorithm.Encode(IEnumerable<>)
-  nameWithType.vb: Encode(IEnumerable(Of ))
+  nameWithType.vb: PolylineAlgorithm.Encode(IEnumerable(Of ))
 - uid: Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Encode*
   name: Encode
   href: api/Cloudikka.PolylineAlgorithm.PolylineAlgorithm.html#Cloudikka_PolylineAlgorithm_PolylineAlgorithm_Encode_
   commentId: Overload:Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Encode
+  isSpec: "True"
   fullName: Cloudikka.PolylineAlgorithm.PolylineAlgorithm.Encode
   nameWithType: PolylineAlgorithm.Encode
 - uid: Cloudikka.PolylineAlgorithm.Validation
@@ -207,6 +227,7 @@ references:
   name: IsValid
   href: api/Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.html#Cloudikka_PolylineAlgorithm_Validation_CoordinateValidator_IsValid_
   commentId: Overload:Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.IsValid
+  isSpec: "True"
   fullName: Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.IsValid
   nameWithType: CoordinateValidator.IsValid
 - uid: Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.IsValidLatitude(System.Double)
@@ -219,6 +240,7 @@ references:
   name: IsValidLatitude
   href: api/Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.html#Cloudikka_PolylineAlgorithm_Validation_CoordinateValidator_IsValidLatitude_
   commentId: Overload:Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.IsValidLatitude
+  isSpec: "True"
   fullName: Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.IsValidLatitude
   nameWithType: CoordinateValidator.IsValidLatitude
 - uid: Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.IsValidLongitude(System.Double)
@@ -231,5 +253,6 @@ references:
   name: IsValidLongitude
   href: api/Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.html#Cloudikka_PolylineAlgorithm_Validation_CoordinateValidator_IsValidLongitude_
   commentId: Overload:Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.IsValidLongitude
+  isSpec: "True"
   fullName: Cloudikka.PolylineAlgorithm.Validation.CoordinateValidator.IsValidLongitude
   nameWithType: CoordinateValidator.IsValidLongitude
